@@ -23,13 +23,23 @@
        {
             "name": "Chat With FunnAi & AiConfucius",
             "url": "https://aiconfucius-w8i.caffeine.xyz/",
-            "description": "An Ai Chat dApp that gives the users an opportunity to have some fun exploring what it is like to talk with AiConfucius, Check the most recent Challenges posted by FunnAI and Get AiConfucius to answer them!",
+            "description": "Got a burning question? Ready for a challenge? Chat with and get ready to have a blast with AiConfucius! Dive into deep conversations, tackle the latest FunnAI Challenges, and get wise, witty answers from the ultimate AI philosopher. It's time to play with purpose.",
             "thumbnail": "https://drive.google.com/thumbnail?id=139GfNHh-a_oY1oi4UyEM-OiKrkEIsRiX",
             "logo": "https://drive.google.com/thumbnail?id=139GfNHh-a_oY1oi4UyEM-OiKrkEIsRiX",
             "creator_openchat": "@Skye_Terrier",
             "creator_x": "@Skye__Terrier",
             "featured": true
-        }
+        },
+      {
+            "name": "Tetric",
+            "url": "https://tetricp-ecd.caffeine.xyz/",
+            "description": "Fall into the timeless challenge of Tetris, now with a new twist! Drop, rotate, and clear lines (watch for funnAi and Caffeine Ai lines :) in a race with gravity. Connect with fellow players in the in-app chat to share strategies, celebrate victories, and master the blocks together.",
+            "thumbnail": "https://drive.google.com/thumbnail?id=1BqTdHEW5e3iAinUsGLard4jijjJ1P-eG",
+            "logo": "https://drive.google.com/thumbnail?id=1BqTdHEW5e3iAinUsGLard4jijjJ1P-eG",
+            "creator_openchat": "@Skye_Terrier",
+            "creator_x": "@Skye__Terrier",
+            "featured": true
+        },
 
     ]
 
